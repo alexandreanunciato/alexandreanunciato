@@ -18,3 +18,5 @@ Atuar em posições iniciais na área de tecnologia, com foco em projetos, anál
 
 ## 📂 Meus repositórios
 Aqui você encontrará projetos de estudo, exercícios e exemplos práticos do meu aprendizado contínuo.
+
+- **Simple Data Analyzer** – Projeto simples em Python utilizado para acompanhar e entender conceitos básicos de lógica de programação durante meus estudos.
