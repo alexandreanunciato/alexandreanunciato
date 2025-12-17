@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Alexandre Augusto Nogueira Anunciato
 
-<!--
-**alexandreanunciato/alexandreanunciato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔄 Em transição de carreira para tecnologia  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- Experiência profissional com análise de processos, indicadores (KPIs), qualidade e relatórios
+- Atuação anterior com monitoria, ouvidoria e relacionamento com stakeholders
+- Interesse em tecnologia aplicada ao negócio, projetos e melhoria contínua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- Lógica de programação
+- JavaScript
+- Metodologias Ágeis (Scrum)
+
+## 🎯 Objetivo
+Atuar em posições iniciais na área de tecnologia, com foco em projetos, análise e metodologias ágeis.
+
+## 📂 Meus repositórios
+Aqui você encontrará projetos de estudo, exercícios e exemplos práticos do meu aprendizado contínuo.
