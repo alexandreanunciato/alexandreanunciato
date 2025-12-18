@@ -19,4 +19,5 @@ Atuar em posições iniciais na área de tecnologia, com foco em projetos, anál
 ## 📂 Meus repositórios
 Aqui você encontrará projetos de estudo, exercícios e exemplos práticos do meu aprendizado contínuo.
 
-- **Simple Data Analyzer** – Projeto simples em Python utilizado para acompanhar e entender conceitos básicos de lógica de programação durante meus estudos.
+- **[Simple Data Analyzer](https://github.com/alexandreanunciato/simple-data-analyzer)** – Projeto simples em Python utilizado para acompanhar e entender conceitos básicos de lógica de programação durante meus estudos.  
+- **[Desafio Lógica do Herói – DIO](https://github.com/alexandreanunciato/desafio-logica-heroi-dio)** – Projeto desenvolvido como desafio de lógica de programação do bootcamp da DIO, aplicando estruturas condicionais para classificar o nível de um herói com base na experiência (XP).
