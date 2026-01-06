@@ -21,4 +21,5 @@ Aqui você encontrará projetos de estudo, exercícios e exemplos práticos do m
 
 - **[Simple Data Analyzer](https://github.com/alexandreanunciato/simple-data-analyzer)** – Projeto simples em **Python**, utilizado para acompanhar e entender conceitos básicos de lógica de programação durante meus estudos.  
 - **[Desafio Lógica do Herói – DIO](https://github.com/alexandreanunciato/desafio-logica-heroi-dio)** – Projeto desenvolvido em **JavaScript** como desafio de lógica de programação do bootcamp da DIO, aplicando estruturas condicionais para classificar o nível de um herói com base na experiência (XP).
+- **[Algoritmo de Distribuição de Notas](https://github.com/alexandreanunciato/algoritmo-distribuicao-notas-js)** – Projeto simples em **JavaScript**, desenvolvido para praticar lógica de programação, utilizando estruturas de repetição, validações e regras básicas de negócio para simular um saque em caixa eletrônico.
 
