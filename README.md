@@ -19,7 +19,7 @@ Atuar em posições iniciais na área de tecnologia, com foco em projetos, anál
 ## 📂 Meus repositórios
 Aqui você encontrará projetos de estudo, exercícios e exemplos práticos do meu aprendizado contínuo.
 
-- **[Simple Data Analyzer](https://github.com/alexandreanunciato/simple-data-analyzer)** – Projeto simples em **Python**, utilizado para acompanhar e entender conceitos básicos de lógica de programação durante meus estudos.  
-- **[Desafio Lógica do Herói](https://github.com/alexandreanunciato/desafio-logica-heroi)** – Projeto desenvolvido em **JavaScript**, com foco em lógica de programação, aplicando estruturas condicionais para classificar o nível de um herói com base em sua experiência (XP).
+- **[Simple Data Analyzer](https://github.com/alexandreanunciato/simple-data-analyzer-py)** – Projeto simples em **Python**, utilizado para acompanhar e entender conceitos básicos de lógica de programação durante meus estudos.  
+- **[Lógica do Herói](https://github.com/alexandreanunciato/logica-heroi-js)** – Projeto desenvolvido em **JavaScript**, com foco em lógica de programação, aplicando estruturas condicionais para classificar o nível de um herói com base em sua experiência (XP).
 - **[Algoritmo de Distribuição de Notas](https://github.com/alexandreanunciato/algoritmo-distribuicao-notas-js)** – Projeto simples em **JavaScript**, desenvolvido para praticar lógica de programação, utilizando estruturas de repetição, validações e regras básicas de negócio para simular um saque em caixa eletrônico.
 - **[Calculadora de Partidas Ranqueadas](https://github.com/alexandreanunciato/calculadora-partidas-ranqueadas-js)** – Projeto simples em **JavaScript**, desenvolvido para praticar lógica de programação, utilizando funções e estruturas condicionais para calcular o saldo de vitórias e classificar o nível do herói.
